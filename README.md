@@ -5,18 +5,13 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 ## Introduction
 
-1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
+1. Hi! I'm Logan Gleed and I use he/him pronouns. I'm a first year at UCI from Long Beach and games have always been a huge part of my life. I grew up playing Pokemon and other Nintendo IP, but I've expanded to play pretty much anything! Currently, I play on PC and love Overwatch 2, Valorant, and the Horizon game series. I'm primarily taking this class because it is required for my major because I want to focus more on the design aspect of Game Design rather than the programming side, but I know it will be beneficial to have this knowledge. In high school I took AP Comp Sci Principles and made a dating sim for my AP Portfolio and my senior year I took an Honors Programming class in which we made several games across platforms and programming languages (although I've forgotten most of it if I'm being honest). In the future I hope to build narrative driven games (although not necessarily RPGs) as well as songs that somehow incorporate my other areas of interest such as volleyball, dance, and singing.
 
-2. Which of the following best describes your major? Please specify if not GDIM.  
+2. GDIM
 
-    - [ ] Game Design & Interactive Media
-    - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
-    - [ ] Art-related major (please specify)
-    - [ ] Undecided
-    - [ ] Other (please specify)
+3. Refresh my knowledge of programming and increase my proficiency beyond my prior knowledge.
 
-3. What are you hoping to get out of this class?
-4. What, if anything, are you nervous about for this class?
+4. I'm just nervous about the fact I've essentially forgotten how to program and I'm going to have to relearn it all this quarter
 
 ## Prior Experience
 
@@ -24,11 +19,11 @@ The next questions ask about what (if any) prior experience you have. This class
 
 ### Development
 
-1. Programming (any languages/ frameworks)
+1. C#, C++, Python
 
-2. Game development (any engine)
+2. Unity, Unreal Engine
 
-3. Unity
+3. I have used Unity before
 
 ### Programming & Game Development Concepts
 
@@ -39,15 +34,15 @@ For the next questions, a programming or game development concept is presented:
 
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
-1. Game design document
+1. N/A
 
-2. Scope management
+2. Keeping the breadth of a project in check so that it doesn't become too overwhelming
 
-3. Iteration
+3. A different version
 
-4. Object-Oriented programming
+4. N/A
 
-5. Model-View-Controller architecture
+5. N/A
 
 ## Complete!
 
